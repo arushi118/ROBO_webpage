@@ -1,0 +1,53 @@
+.nav-link{
+    font-size:larger;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 37px;;
+}
+
+#main-head {
+    /* 54 px = Navbar height */
+    height: calc(100vh - 54px);
+    background-image: url('https://cdn.wallpapersafari.com/10/94/n78Pop.jpg');
+    background-size: cover;
+}
+
+.ma{
+    font-size: 500%;
+}
+
+.hello{
+    font-size: 400%;
+    font-weight:lighter;
+    font-style: oblique;
+}
+
+.intro{
+    font-size: 210%;
+    font-weight:normal;
+}
+
+.info{
+    line-height: 60px;
+}
+
+.page-section{
+    padding: 6rem 0;
+}
+
+.section-heading{
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+
+.abt{
+    background-color: lavender;
+}
+
+.cont{
+    font-size: 45px;
+}
